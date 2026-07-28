@@ -12,7 +12,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=flat-square)](https://pytorch.org)
 
 > **Sinh viên thực hiện:** Trần Mạnh Thái - Diệp Thị Mỹ Hằng  
-> **Năm học:** 2024 – 2025
+> **Năm học:** 2025 – 2026
 
 </div>
 
