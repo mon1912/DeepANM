@@ -2,7 +2,7 @@
 
 # DeepANM
 
-### Đồ án Tốt nghiệp — Đại học [Tên Trường]
+### Đồ án Tốt nghiệp — Đại học Lạc Hồng. 
 
 **Khám phá Cấu trúc Nhân quả Phi tuyến bằng Mô hình Nhiễu Cộng Sâu**  
 *Nonlinear Causal Structure Discovery via Deep Additive Noise Model*
@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=flat-square)](https://pytorch.org)
 
-> **Sinh viên thực hiện:** Manh Thai  
+> **Sinh viên thực hiện:** Manh Thai - My Hang  
 > **Năm học:** 2024 – 2025
 
 </div>
